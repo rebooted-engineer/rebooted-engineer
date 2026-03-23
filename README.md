@@ -1,123 +1,160 @@
-<h1 align="center">Hi 👋, I'm Muqaddas</h1>
-<h3 align="center">🌱 The Rebooted Engineer | Full-Stack Developer in Progress | Faith-Driven Learner</h3>
+<!-- rebooted_engineer — GitHub Profile README -->
+<!-- Copy this entire file into your rebooted_engineer/rebooted_engineer repo README.md -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Rebuilding+my+career+from+scratch+💻;Learning+Full-Stack+Development+(MERN)+🚀;Practicing+DSA+and+Problem+Solving+💡;Healing+through+Faith+Discipline+and+Code+🌙" alt="Typing SVG" />
-</p>
+<div align="center">
 
----
+```
+██████╗ ███████╗██████╗  ██████╗  ██████╗ ████████╗███████╗██████╗
+██╔══██╗██╔════╝██╔══██╗██╔═══██╗██╔═══██╗╚══██╔══╝██╔════╝██╔══██╗
+██████╔╝█████╗  ██████╔╝██║   ██║██║   ██║   ██║   █████╗  ██║  ██║
+██╔══██╗██╔══╝  ██╔══██╗██║   ██║██║   ██║   ██║   ██╔══╝  ██║  ██║
+██║  ██║███████╗██████╔╝╚██████╔╝╚██████╔╝   ██║   ███████╗██████╔╝
+╚═╝  ╚═╝╚══════╝╚═════╝  ╚═════╝  ╚═════╝   ╚═╝   ╚══════╝╚═════╝
+```
 
-### 🌿 About Me
+### `> whoami`
 
-After a long pause, I decided to **restart my journey** — not just in tech, but in life.  
-I call myself the **Rebooted Engineer**, because this time it’s not only about coding — it’s about **healing, relearning, and rebuilding** with purpose.  
+**Mom · Software Engineer · Rebuilding in the AI era**
 
-I’m starting from **zero**, mastering each layer of web development and logic step by step:
-- ⚙️ **Backend First:** Node.js, Express.js  
-- 🗃️ **Databases:** MongoDB, PostgreSQL, MySQL  
-- 🎨 **Frontend:** HTML, CSS, React  
-- 💡 **Problem Solving:** 2 LeetCode questions a day for DSA fundamentals  
+*5+ years shipping production AI systems · Career break · Now back and building in public*
 
-> “The restart isn’t failure — it’s faith in a better version of yourself.” 🌙  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-muqaddasrashid-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/muqaddasrashid)
+[![Blog](https://img.shields.io/badge/Blog-rebooted--engineer.hashnode.dev-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://rebooted-engineer.hashnode.dev)
+[![Profile Views](https://komarev.com/ghpvc/?username=rebooted_engineer&style=flat-square&color=7F77DD&label=profile+views)](https://github.com/rebooted_engineer)
 
-📍 **From:** Pakistan  
-🎯 **Focus:** Full-Stack (MERN) + DSA + Strong Foundation  
-📖 **Sharing My Daily Journey:** [@rebooted.engineer](https://instagram.com/rebooted.engineer)
-
----
-
-## 🧰 Tech Toolbox
-
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=javascript,python,cpp,bash" />
-</p>
-
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🗃️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
-</p>
-
-### 🌐 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
-</p>
-
-### 🧠 Problem Solving / DSA
-<p>
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  <img src="https://img.shields.io/badge/Data%20Structures-Deep%20Dive-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Algorithms-Mastery-green?style=for-the-badge" />
-</p>
-
-### 🧩 Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
-</p>
+</div>
 
 ---
 
-## 🚀 Current Goals
+```python
+class RebootedEngineer:
+    def __init__(self):
+        self.name        = "Muqaddas Rashid"
+        self.location    = "Lahore, Pakistan"
+        self.status      = "Rebuilding · Building in public"
+        self.currently   = ["Python internals", "Cloud architecture", "LLM-era AI"]
+        self.background  = ["NLP systems", "Conversational AI", "Backend engineering"]
+        self.path        = "Backend → DevOps → LLM Engineering"
 
-- [ ] Complete **Full-Stack MERN Roadmap**  
-- [ ] Solve **2 LeetCode problems daily** to master DSA  
-- [ ] Build **5 small full-stack projects** to strengthen fundamentals  
-- [ ] Share progress on **Instagram & LinkedIn** consistently  
-- [ ] Transition into **DevOps path** after strong MERN foundation  
+    def story(self):
+        return """
+        Built production AI for Southeast Asia's banks and transit systems.
+        Took time away to be a mom.
+        Came back to find the whole industry had changed.
+        Decided to document the rebuild — publicly, honestly, in real time.
+        """
 
----
-
-## 🧠 What I’m Currently Learning
-
-| Area | Topics |
-|------|--------|
-| **Backend** | Node.js, Express.js, REST APIs |
-| **Databases** | MongoDB, PostgreSQL, MySQL |
-| **Frontend** | React, Tailwind CSS, Responsive Design |
-| **DSA** | Arrays, Strings, Hashmaps, Recursion |
-| **Version Control** | Git, GitHub |
-| **Soft Skills** | Discipline, Focus, Consistency |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=58a6ff&line=00b4d8&point=f0f3f6&area=true&hide_border=true"/>
-</p>
+me = RebootedEngineer()
+print(me.story())
+```
 
 ---
 
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onestar&no-frame=true&no-bg=true&margin-w=15" />
-</p>
+### `> ls ./currently_learning`
+
+```
+├── python-internals/
+│   ├── decorators.py          ✅ done
+│   ├── generators.py          🔄 in progress  
+│   ├── context_managers.py    🔄 in progress
+│   └── args_kwargs.py         ✅ done
+├── data-structures/
+│   └── leetcode_easy/         🔄 solving daily
+├── projects/
+│   ├── contacts-book/         ✅ shipped
+│   ├── expense-tracker/       🔄 building
+│   └── next-project/          📋 planned
+└── content/
+    └── rebooted-engineer.hashnode.dev  ✍️ writing weekly
+```
 
 ---
 
-## 🌐 Connect with Me
+### `> cat ./tech_stack.json`
 
-<p align="center">
-  <a href="https://instagram.com/rebooted.engineer"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
-</p>
+```json
+{
+  "languages"  : ["Python", "JavaScript", "SQL"],
+  "ai_nlp"     : ["Dialogflow", "NLP", "ML pipelines", "LLM APIs"],
+  "backend"    : ["Node.js", "REST APIs", "Socket.IO"],
+  "cloud"      : ["Google Cloud Platform", "AWS", "Azure ML"],
+  "tools"      : ["Git", "VS Code", "Linux"],
+  "learning"   : ["pytest", "FastAPI", "Docker", "LangChain"]
+}
+```
 
 ---
 
-### 🕊️ Quote to Live By
-> “Heal your heart, sharpen your logic, and rebuild your dreams — one line of code at a time.”
+### `> cat ./projects.md`
+
+| Project | Description | Stack | Status |
+|---------|-------------|-------|--------|
+| [contacts-book](https://github.com/rebooted_engineer/contacts-book) | CLI contacts manager — OOP, JSON persistence, regex validation | Python | ✅ Shipped |
+| expense-tracker | CLI expense tracker with categories and reports | Python | 🔄 Building |
+| personal-site | My corner of the internet | Flask / Python | 📋 Planned |
 
 ---
 
-<p align="center">✨ Made with faith, focus, and perseverance by <b>Muqaddas Rashid</b> — The Rebooted Engineer ✨</p>
+### `> git log --oneline --graph`
+
+```
+* Building in public since 2025
+* 5 years of production AI at ADDO AI
+* Chatbots for BCA Indonesia (banking), CDG Taxi (Singapore)
+* Microsoft Student Partner 2014–2018
+* CS degree, Information Technology University Lahore
+* Career break — motherhood
+* REBOOTED ← you are here
+```
+
+---
+
+### `> tail -f ./blog_feed`
+
+<!-- Replace these with your actual post links when published -->
+
+📝 **Latest from [rebooted-engineer.hashnode.dev](https://rebooted-engineer.hashnode.dev)**
+
+- [I took a 3-year career break. Here's why I'm coming back.](#)
+- [Week 1 back to coding after 3 years — what surprised me](#)
+- [What 3 years away from tech taught me that 10 years in it never could](#)
+
+*Updated weekly · [Read all posts →](https://rebooted-engineer.hashnode.dev)*
+
+---
+
+### `> cat ./github_stats`
+
+<div align="center">
+
+![Muqaddas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rebooted_engineer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0f1a&title_color=7F77DD&icon_color=7F77DD&text_color=ffffff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rebooted_engineer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0f1a&title_color=7F77DD&text_color=ffffff)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rebooted_engineer&theme=tokyonight&hide_border=true&background=0f0f1a&ring=7F77DD&fire=7F77DD&currStreakLabel=7F77DD)
+
+</div>
+
+---
+
+### `> echo $CURRENTLY_READING`
+
+```
+Fluent Python — Luciano Ramalho
+Real Python articles — daily
+```
+
+---
+
+<div align="center">
+
+```
+> This isn't just a comeback — it's a transformation.
+> Documenting every step at rebooted-engineer.hashnode.dev
+```
+
+*If you're rebuilding too — you're not alone.*
+
+**[Blog](https://rebooted-engineer.hashnode.dev) · [LinkedIn](https://linkedin.com/in/muqaddasrashid) · [Email](mailto:muqaddas.rashid04@gmail.com)**
+
+</div>
