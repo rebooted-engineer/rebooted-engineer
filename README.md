@@ -89,7 +89,7 @@ print(me.story())
 
 | Project | Description | Stack | Status |
 |---------|-------------|-------|--------|
-| [contacts-book](https://github.com/rebooted_engineer/contacts-book) | CLI contacts manager — OOP, JSON persistence, regex validation | Python | ✅ Shipped |
+| [contacts-book](https://github.com/rebooted-engineer/contacts-book) | CLI contacts manager — OOP, JSON persistence, regex validation | Python | ✅ Shipped |
 | expense-tracker | CLI expense tracker with categories and reports | Python | 🔄 Building |
 | personal-site | My corner of the internet | Flask / Python | 📋 Planned |
 
