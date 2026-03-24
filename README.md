@@ -127,11 +127,11 @@ print(me.story())
 
 <div align="center">
 
-![Muqaddas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rebooted_engineer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0f1a&title_color=7F77DD&icon_color=7F77DD&text_color=ffffff)
+![Muqaddas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rebooted-engineer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0f1a&title_color=7F77DD&icon_color=7F77DD&text_color=ffffff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rebooted_engineer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0f1a&title_color=7F77DD&text_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rebooted-engineer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0f1a&title_color=7F77DD&text_color=ffffff)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rebooted_engineer&theme=tokyonight&hide_border=true&background=0f0f1a&ring=7F77DD&fire=7F77DD&currStreakLabel=7F77DD)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rebooted-engineer&theme=tokyonight&hide_border=true&background=0f0f1a&ring=7F77DD&fire=7F77DD&currStreakLabel=7F77DD)
 
 </div>
 
