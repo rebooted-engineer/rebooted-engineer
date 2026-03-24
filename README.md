@@ -119,7 +119,7 @@ print(me.story())
 - [Week 1 back to coding after 3 years — what surprised me](#)
 - [What 3 years away from tech taught me that 10 years in it never could](#)
 
-*Updated weekly · [Read all posts →](https://rebooted-engineer.hashnode.dev)*
+*Updated weekly · [Read all posts →]([https://rebooted-engineer.hashnode.dev](https://hashnode.com/@rebooted-engineer))*
 
 ---
 
